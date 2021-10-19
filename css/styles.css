@@ -128,7 +128,9 @@ header ul{
     margin-right: 30px;
     transition: 1s;
 }
-
+hr{
+    color: red;
+}
 
 
 
